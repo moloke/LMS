@@ -1,0 +1,21 @@
+ID,Genre,Title,Author,Loan Period,Purchase Date,Member Id
+1,Sci-Fi,Dune,Frank Herbert,7 ,2011-07-01,cofp
+2,Romance,Pride and Prejudice,Jane Austen,28 ,2010-12-18,0
+3,Fantasy,The Night Circus,Erin Morgenstern,7 ,2011-09-30,0
+4,Nonfiction,A Brief History of Time,Stephen Hawking,28 ,2010-08-01,coag
+5,Crime thriller,The Thursday Murder Club,Richard Osman,7 ,2020-12-03,0
+6,Sci-Fi,Neuromancer,William Gibson,28 ,2011-02-04,bady
+7,Romance,Jane Eyre,Charlotte Bronte,7 ,2014-10-16,0
+8,Sci-Fi,Starship Troopers,Robert A. Heinlein,28 ,2011-12-05,mebs
+9,Fantasy,American Gods,Neil Gaiman,7 ,2014-06-06,cass
+10,Crime thriller,In Cold Blood,Truman Capote,28 ,2017-08-01,0
+11,Sci-Fi,Stranger in a Strange Land,Robert A. Heinlein,7 ,2010-08-01,0
+12,Romance,The Notebook,Nicholas Sparks,28 ,2014-02-19,0
+13,Crime thriller,Da Vinci Code,Dan Brown,7 ,2017-04-09,gydw
+14,Nonfiction,Thinking Fast and Slow,Daniel Kahneman,28 ,2017-08-01,hubv
+15,Crime thriller,The Snowman,Jo Nesbo,7 ,2011-08-05,0
+16,Sci-Fi,Borne,Jeff VanderMeer,28 ,2017-05-24,majk
+17,Nonfiction,Outliers,Malcolm Gladwell,7 ,2010-12-18,0
+18,Fantasy,The Night Circus,Erin Morgenstern,28 ,2011-09-30,cooo
+19,Nonfiction,On the Shoulders of Giants,Stephen Hawking,7 ,2014-06-06,0
+20,Sci-Fi,Doomsday Book,Connie Willis,28 ,2014-02-19,0
